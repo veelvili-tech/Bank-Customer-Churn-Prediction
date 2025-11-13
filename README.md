@@ -2,11 +2,11 @@
 
 ## OBJECTIVE
 
-To identify the factors influencing customer churn using historical interaction and behavioural data.
+1. To identify the factors influencing customer churn using historical interaction and behavioural data.
 
-To develop a machine learning model to predict the likelihood of customer churn.
+2. To develop a machine learning model to predict the likelihood of customer churn.
 
-To compare the performance of at least three machine learning algorithms (e.g., logistic regression, decision trees, and random forests) in predicting customer churn.
+3. To compare the performance of at least three machine learning algorithms (e.g., logistic regression, decision trees, and random forests) in predicting customer churn.
 
 DATASET Dataset comprises of 10,000 samples and 18 features.
 

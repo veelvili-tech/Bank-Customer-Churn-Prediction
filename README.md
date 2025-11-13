@@ -1,6 +1,6 @@
 # Bank-Customer-Churn-Prediction
 
-OBJECTIVE
+## OBJECTIVE
 
 To identify the factors influencing customer churn using historical interaction and behavioural data.
 

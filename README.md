@@ -6,7 +6,7 @@ The bank operates across multiple geographic regions and offers a range of finan
 
 As customer behavior becomes increasingly data-driven, this project demonstrates how **machine learning models can be operationalized to support business decisions,** enabling marketing, customer relationship, and executive teams to intervene before high-value customers leave.
 
-The Python scripts for EDA and data cleaning can be found here [https://github.com/veelvili-tech/Bank-Customer-Churn-Prediction/tree/main/Part%201_EDA], and the scripts for model building can be found here [https://github.com/veelvili-tech/Bank-Customer-Churn-Prediction/blob/main/Part%202_Final_Model_Building.ipynb].
+The Python scripts for EDA and data cleaning can be found here [[link](https://github.com/veelvili-tech/Bank-Customer-Churn-Prediction/tree/main/Part%201_EDA)], and the scripts for model building can be found here [[link](https://github.com/veelvili-tech/Bank-Customer-Churn-Prediction/blob/main/Part%202_Final_Model_Building.ipynb)].
 
 # Business Questions Addressed
 

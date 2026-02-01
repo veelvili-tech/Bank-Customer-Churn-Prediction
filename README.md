@@ -6,6 +6,9 @@ The bank operates across multiple geographic regions and offers a range of finan
 
 As customer behavior becomes increasingly data-driven, this project demonstrates how **machine learning models can be operationalized to support business decisions,** enabling marketing, customer relationship, and executive teams to intervene before high-value customers leave.
 
+
+
+
 # Business Questions Addressed
 
 Insights and model-driven recommendations are provided across the following key areas:

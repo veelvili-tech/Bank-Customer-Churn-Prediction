@@ -111,16 +111,20 @@ This deployment approach demonstrates how machine learning models can be **bridg
 Based on the findings, the following actions are recommended for stakeholder teams:
 
 - Customer Experience Teams:
-Prioritize complaint resolution and proactive outreach for customers with recent negative interactions.
+
+   Prioritize complaint resolution and proactive outreach for customers with recent negative interactions.
 
 - Marketing & Retention Teams:
-Use churn predictions to design targeted retention campaigns for high-risk customer segments.
+  
+   Use churn predictions to design targeted retention campaigns for high-risk customer segments.
 
 - Product Strategy Teams:
-Review product bundling strategies, as customers with fewer products are more likely to churn.
+
+   Review product bundling strategies, as customers with fewer products are more likely to churn.
 
 - Data & Analytics Teams:
-Integrate churn predictions into CRM systems to enable continuous monitoring and intervention.
+- 
+   Integrate churn predictions into CRM systems to enable continuous monitoring and intervention.
 
 # Assumptions & Caveats
 

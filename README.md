@@ -14,19 +14,19 @@ Insights and model-driven recommendations are provided across the following key 
 
 1. Customer Churn Drivers
    
-Which behavioral and demographic factors are most strongly associated with churn?
+   Which behavioral and demographic factors are most strongly associated with churn?
 
 2. Predictive Modeling Performance
    
-Which machine learning models are most effective at identifying at-risk customers?
+   Which machine learning models are most effective at identifying at-risk customers?
 
 3. Model Interpretability & Feature Importance
    
-Which variables have the greatest influence on churn predictions?
+   Which variables have the greatest influence on churn predictions?
 
 4. Deployment & Business Readiness
 
-How can churn predictions be delivered to stakeholders in a usable, secure way?
+   How can churn predictions be delivered to stakeholders in a usable, secure way?
 
 
 # Data Structure & Initial Checks

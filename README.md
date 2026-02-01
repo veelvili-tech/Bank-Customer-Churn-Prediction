@@ -123,7 +123,7 @@ Based on the findings, the following actions are recommended for stakeholder tea
    Review product bundling strategies, as customers with fewer products are more likely to churn.
 
 - Data & Analytics Teams:
-- 
+  
    Integrate churn predictions into CRM systems to enable continuous monitoring and intervention.
 
 # Assumptions & Caveats

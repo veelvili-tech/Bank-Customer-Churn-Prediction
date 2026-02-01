@@ -80,7 +80,7 @@ Six classification models were evaluated:
 
 **Business implication:** Choosing the right model directly affects how many at-risk customers are correctly identified before churn occurs.
 
-### Feature Importance & Interpretability
+### 3. Feature Importance & Interpretability
 Top predictive features included:
 
 - Complain
@@ -91,7 +91,7 @@ Top predictive features included:
 
 By narrowing the feature set to the most influential variables, the model remains both **accurate and explainable**, which is critical for stakeholder trust and regulatory environments.
 
-### Deployment & Decision Support
+### 4. Deployment & Decision Support
 The final Random Forest model was deployed using Streamlit as a local web application, allowing users to:
 
 - Input customer attributes
@@ -100,7 +100,7 @@ The final Random Forest model was deployed using Streamlit as a local web applic
 
 This deployment approach demonstrates how machine learning models can be **bridged into business workflows**, not just evaluated offline.
 
-### Recommendations
+# Recommendations
 
 Based on the findings, the following actions are recommended for stakeholder teams:
 

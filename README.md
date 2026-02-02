@@ -131,3 +131,25 @@ Based on the findings, the following actions are recommended for stakeholder tea
 - The dataset is anonymized and may not capture all real-world behavioral signals.
 - Churn is treated as a binary outcome, without modeling time-to-churn.
 - Local deployment is intended for prototyping and demonstration, not production-scale usage.
+
+# Deployment 
+
+![bf947998-8ba1-4542-93b8-f596cc10c153](https://github.com/user-attachments/assets/8f5ff815-3f3a-4a03-896b-d946dd3d43b2)
+
+The application was developed using Streamlit and a Random Forest model, aiming to provide
+predictive insights into customer churn.
+
+### Deployment Process
+The deployment process on a local host involves the following steps:
+
+### a. Setting Up the Environment
+1. Install Python 3.10 or higher.
+2. Create a virtual environment and activate it.
+3. Install the required dependencies: pip install -r requirements.txt
+
+### b. Running the Application
+1. Navigate to the directory containing the application code.
+2. Start the Streamlit application by running: streamlit run app.py
+3. Open the provided URL (e.g., http://localhost:8501) in a browser to interact with the
+application.
+

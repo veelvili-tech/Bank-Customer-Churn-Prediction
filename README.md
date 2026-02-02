@@ -151,7 +151,7 @@ The deployment process on a local host involves the following steps:
 
 ### b. Running the Application
 1. Navigate to the directory containing the application code.
-2. Start the Streamlit application by running: streamlit run app.py
+2. Start the Streamlit application by running: streamlit run app.py [[link](https://github.com/veelvili-tech/Bank-Customer-Churn-Prediction/tree/main/APP)]
 3. Open the provided URL (e.g., http://localhost:8501) in a browser to interact with the
 application.
 

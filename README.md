@@ -46,7 +46,7 @@ Key preprocessing steps included:
 - Feature encoding (label, ordinal, and one-hot encoding)
 - These steps ensured the data was model-ready, balanced, and reproducible.
 
-# Executive Summary
+# Executive Summary (Key Findings)
 Overview of Findings
 
 From a business perspective, three key insights stand out:

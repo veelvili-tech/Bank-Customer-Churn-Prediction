@@ -76,7 +76,7 @@ Models were evaluated using business-relevant metrics:
 - Cross-validation stability
 
 Key outcome:
-Random Forest delivered the best balance between performance, stability, and interpretability, making it the preferred model for deployment.
+**Random Forest** delivered the best balance between **performance, stability, and interpretability**, making it the preferred model for deployment.
 
 # Model Insights (What Drives Churn?)
 

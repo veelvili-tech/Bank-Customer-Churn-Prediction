@@ -134,10 +134,12 @@ Based on the findings, the following actions are recommended for stakeholder tea
 
 # Deployment 
 
-![bf947998-8ba1-4542-93b8-f596cc10c153](https://github.com/user-attachments/assets/8f5ff815-3f3a-4a03-896b-d946dd3d43b2)
-
 The application was developed using Streamlit and a Random Forest model, aiming to provide
 predictive insights into customer churn.
+
+![bf947998-8ba1-4542-93b8-f596cc10c153](https://github.com/user-attachments/assets/8f5ff815-3f3a-4a03-896b-d946dd3d43b2)
+
+
 
 ### Deployment Process
 The deployment process on a local host involves the following steps:
